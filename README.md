@@ -1,5 +1,5 @@
 # Tree Devourer GMNG (Fixed!) 
-The goal of this MOD is to update the Tree Devourer to have proper (logical) settings. This mod has two settings that would make it "unreal" - a capacity of 50kL, and running around _without_ a spout. Instead, the mod was built where a capacity of 50kL didn't cost anything, and the "spout" was the "unreal" setting... in my mind _teleporting_ the contents from something on the front of your tractor to the trailer on the back is quite unrealistic, where as blowing them there via a directional spout feels more realistic. So, I fixed it. You're welome.
+The goal of this MOD is to update the Tree Devourer to have proper (logical) settings. This mod has two settings that would make it "unreal" - a capacity of 50kL, and running around _without_ a spout. Instead, the mod was built where a capacity of 50kL didn't cost anything, and the "spout" was the "unreal" setting... in my mind _teleporting_ the contents from something on the front of your tractor to the trailer on the back is quite unrealistic, where as blowing them there via a directional spout feels more realistic. So, I fixed it. You're welcome.
 
 - This is an extented MOD of the Tree Devourer by raulycristi1 [VSR Modding Sur].
 - The original mod is available on ModHub (https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=260505&title=fs2022)
